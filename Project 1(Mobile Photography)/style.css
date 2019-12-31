@@ -1,0 +1,92 @@
+.page
+   {
+      width:1500px;
+      height:2500px;
+      border-style:groove;
+   }
+.head
+   {
+      width:1495px;
+      height:150px;
+      border-style:groove;
+      background-color:rgb(0,00,00);
+      
+   }
+.image
+{
+widows: 1200px;
+height:145px;
+background-image:url("pic1.jpg");
+background-size:fill;
+}
+.link
+{
+width:1495px;
+height:30px;
+margin-top:00;
+background-color:rgb(0,00,00);
+border-style:groove;
+}
+.link a
+{
+color:rgb(245,246,251);
+text-decoration:none;
+}
+.link a:hover
+{
+background-color:rgb(245,246,251);
+         
+color:rgb(0,00,00);
+}
+.body
+{
+  width:1495px;
+  height:1800px;
+  border-style:groove;
+  margin-top:5px;
+}
+.body .img
+{
+width:985px;
+height:600px;
+border-style:groove;
+background-image:url("images/pic.jpg");
+background-size: cover;
+    background-position: fit to center;
+display:inline-block;
+}
+.body .news
+{
+width:500px;
+height:600px;
+border-style:groove;
+float:right;
+}
+.body .news h2
+{
+color:green;
+margin-left:115px;
+}
+.body .news .info
+{
+width:493;
+height:500;
+}
+.body .news .info h4
+{
+color:red;
+}
+.body h3
+{
+color:red;
+text-align:center;
+}
+.footer
+{
+width:1495px;
+height:480px;
+margin-top:5px;
+background-color:rgb(0,00,00);
+border-style:groove;
+}
+
